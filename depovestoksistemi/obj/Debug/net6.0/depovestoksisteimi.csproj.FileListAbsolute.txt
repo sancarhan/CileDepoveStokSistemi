@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\KURSLAR\BTK Akademi\c#\depovestoksisteimi\bin\Debug\net6.0\depovestoksisteimi.exe
+C:\Users\ASUS\Desktop\KURSLAR\BTK Akademi\c#\depovestoksisteimi\bin\Debug\net6.0\depovestoksisteimi.deps.json
+C:\Users\ASUS\Desktop\KURSLAR\BTK Akademi\c#\depovestoksisteimi\bin\Debug\net6.0\depovestoksisteimi.runtimeconfig.json
+C:\Users\ASUS\Desktop\KURSLAR\BTK Akademi\c#\depovestoksisteimi\bin\Debug\net6.0\depovestoksisteimi.dll
+C:\Users\ASUS\Desktop\KURSLAR\BTK Akademi\c#\depovestoksisteimi\bin\Debug\net6.0\depovestoksisteimi.pdb
+C:\Users\ASUS\Desktop\KURSLAR\BTK Akademi\c#\depovestoksisteimi\obj\Debug\net6.0\depovestoksisteimi.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\KURSLAR\BTK Akademi\c#\depovestoksisteimi\obj\Debug\net6.0\depovestoksisteimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\KURSLAR\BTK Akademi\c#\depovestoksisteimi\obj\Debug\net6.0\depovestoksisteimi.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\KURSLAR\BTK Akademi\c#\depovestoksisteimi\obj\Debug\net6.0\depovestoksisteimi.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\KURSLAR\BTK Akademi\c#\depovestoksisteimi\obj\Debug\net6.0\depovestoksisteimi.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\KURSLAR\BTK Akademi\c#\depovestoksisteimi\obj\Debug\net6.0\depovestoksisteimi.dll
+C:\Users\ASUS\Desktop\KURSLAR\BTK Akademi\c#\depovestoksisteimi\obj\Debug\net6.0\refint\depovestoksisteimi.dll
+C:\Users\ASUS\Desktop\KURSLAR\BTK Akademi\c#\depovestoksisteimi\obj\Debug\net6.0\depovestoksisteimi.pdb
+C:\Users\ASUS\Desktop\KURSLAR\BTK Akademi\c#\depovestoksisteimi\obj\Debug\net6.0\depovestoksisteimi.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\KURSLAR\BTK Akademi\c#\depovestoksisteimi\obj\Debug\net6.0\ref\depovestoksisteimi.dll
